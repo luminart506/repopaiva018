@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.paiva018" name="REPOPAIVA018" version="0.1.8" provider-name="luminart506">
+    <extension point="xbmc.addon.repository" name="repository.paiva018">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/repopaiva018/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/repopaiva018/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/repopaiva018/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>REPOPAIVA018</summary>
+        <description>INSTALAÇÃO VIA LINK</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
